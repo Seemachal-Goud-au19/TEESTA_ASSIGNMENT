@@ -6,6 +6,7 @@ const App = () => {
   return (
     <div className="App">
       <NestedReal />
+      <h2>hello dyna</h2>
     </div>
   );
 };
