@@ -25,6 +25,7 @@ const App = () => {
         edit
       </Button>
       </ButtonGroup>
+      <div>hello new gitt</div>
      
     </div>
   );
